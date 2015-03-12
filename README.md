@@ -6,4 +6,4 @@ Histograma de frecuencias/probabilidades con ggplot2
 
 Otros repositorios/códigos
 
-www.roic.mx
+http://roic.mx/reposgithub/
