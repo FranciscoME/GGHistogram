@@ -1,5 +1,5 @@
 ## ITESOHistograma
 
---Desarrollo Inicial: FranciscoME
+-Desarrollo Inicial: FranciscoME
 
---Histograma de frecuencias/probabilidades con ggplot2
+-Histograma de frecuencias/probabilidades con ggplot2
