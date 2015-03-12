@@ -1,8 +1,10 @@
-# --------------------------------------------------- #
-# ITESO  - Ingeniería Financiera                      #
-# Código - Gráfica tipo Histograma                    #
-# --------------------------------------------------- #
+# --------------------------------------------------------------------------------------------------------------- #
+# ITESO  - Ingeniería Financiera                                                                                  #
+# Código - Gráfica tipo Histograma                                                                                #
+# Commit Inicial - FranciscoME                                                                                    #
+# --------------------------------------------------------------------------------------------------------------- #
 
+# Cargar liberías de funciones a utilizar
 library  (ggplot2)
 library  (gridExtra)
 library  (plyr)
@@ -10,7 +12,6 @@ library  (moments)
 
 color1 <- "white"
 color2 <- "light gray"
-color3 <- "#0066cc"
 color4 <- "#333333"
 color5 <- "steel blue"
 color6 <- "turquoise"
